@@ -10,5 +10,5 @@ In this hands on session, you will learn some basics of CoDA. As the session is 
 ## Preparation of the dataset
 The dataset that you will use in this hands on session comes from a paper I published in 2018: </br> [Water Masses and Depth Structure Prokaryotic and T4-Like Viral Communities Around Hydrothermal Systems of the Nordic Seas](https://www.frontiersin.org/articles/10.3389/fmicb.2018.01002/full) </br>
 At that time, I did not use CoDA to analyse the data, so here is the opportunity to rerun part of the dataset using proper methods!
-- Import the csv file by clicking on `File`, `Import`, `csv`. Select `DataSet_WaterMasses_0s_cols.csv`. This is a simplified OTU table with only the 20<sup>th</sup> most abundant OTUs.
+- Import the csv file by clicking on `File`, `Import`, `csv`. Select `DataSet_WaterMasses_0s_cols.csv`. This is a simplified OTU table with only the 20<sup>th</sup> most abundant OTUs. Note that the samples are on the rows, while your variables (
 - 
